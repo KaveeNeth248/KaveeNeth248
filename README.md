@@ -4,7 +4,8 @@
 🌱 Learning Python, React.js, Spring Boot  
 💡 I love building modular apps and educational tools  
 📫 Reach me at **kaveeeneth@gmail.com**  
-⚡ Fun fact: I believe clarity + creativity = great software!        ![pngtree-a-student-girl-sitting-with-laptop-learning-online-image_16431210](https://github.com/user-attachments/assets/aacc9897-dac2-403f-a482-78e9b4ac3782)
+⚡ Fun fact: I believe clarity + creativity = great software!       
+![pngtree-a-student-girl-sitting-with-laptop-learning-online-image_16431210](https://github.com/user-attachments/assets/aacc9897-dac2-403f-a482-78e9b4ac3782)
 
 
 ## 🌐 Connect with me  
